@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "stdio.h": "c",
-        "lib.h": "c",
-        "geometric_measures.h": "c"
-    }
-}
